@@ -4,21 +4,21 @@ LangChain AI Projects
 
 This repository contains three practical Generative AI projects built using Python and LangChain. These projects helped me understand the fundamentals of LLM-based applications, AI agents, and their practical workflows.
 
-##Projects
+## Projects
 
-###1. Q&A Bot
+### 1. Q&A Bot
 
 A question-answering chatbot built using LangChain and an LLM to interact with users and generate responses based on their queries.
 
-###2. Blog Generator
+### 2. Blog Generator
 
 An AI-powered blog generation application designed to generate blog content using LLMs.
 
-###3. Search & Weather Agent
+### 3. Search & Weather Agent
 
 An AI agent that uses tools to perform search and weather-related tasks.
 
-##Technologies Used
+## Technologies Used
 
 - Python
 - LangChain
